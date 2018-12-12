@@ -1,22 +1,27 @@
 html {
   background-color: #c9b5ab;
+  line-height: 1.5rem;
 }
 
 h1 {
   font-family: "PT Sans", sans-serif;
-  color: #8f2440
+  color: #3f1622;
+  font-size: 1.5rem;
+  margin-top: 1.125em;
 }
 
 a {
-  color: #8f2440
+  color: #8f2440;
+  text-decoration: none;
 }
 
 a:hover {
   color: #3f1622;
+  text-decoration: none;
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 p {
@@ -32,13 +37,14 @@ figcaption {
 }
 
 blockquote {
-  font-family: "PT Serif";
+  font-family: "PT Serif", serif;
   font-style: italic;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
 }
 
 ol {
-  list-style-type: lower-greek;
+  list-style: none;
+  font-family: "PT Serif", sans-serif;
 }
 
 dt {
@@ -51,7 +57,7 @@ dd {
 }
 
 ul {
-  font-size: 0.8rem;
+  font-size: .8rem;
   list-style-type: circle;
   font-family: "PT Serif", serif;
 }
@@ -79,4 +85,8 @@ ul {
   font-weight: normal;
   text-align: left;
   font-size: 1.125rem;
+}
+
+h2 {
+  color: #3f1622;
 }
