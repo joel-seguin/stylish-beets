@@ -18,3 +18,65 @@ a:hover {
 img {
   width: 100%
 }
+
+p {
+  text-align: left;
+  font-family: "PT Serif", serif;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+}
+
+blockquote {
+  font-family: "PT Serif";
+  font-style: italic;
+  font-size: 1.125rem;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
+
+dt {
+  font-family: "PT Serif", serif;
+  font-weight: bold;
+}
+
+dd {
+  font-family: "PT Serif", serif;
+}
+
+ul {
+  font-size: 0.8rem;
+  list-style-type: circle;
+  font-family: "PT Serif", serif;
+}
+
+.link {
+  font-family: "PT Serif", serif;
+}
+
+.list {
+  font-weight: bold;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.125rem;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.common, .nutriotion, .tags {
+  color: #8f2440;
+  font-weight: bold;
+  font-family: "PT Sans", sans-serif;
+}
+
+.par1 {
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+  text-align: left;
+  font-size: 1.125rem;
+}
