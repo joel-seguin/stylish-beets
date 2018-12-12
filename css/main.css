@@ -1,0 +1,20 @@
+html {
+  background-color: #c9b5ab;
+}
+
+h1 {
+  font-family: "PT Sans", sans-serif;
+  color: #8f2440
+}
+
+a {
+  color: #8f2440
+}
+
+a:hover {
+  color: #3f1622;
+}
+
+img {
+  width: 100%
+}
